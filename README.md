@@ -1,4 +1,4 @@
-# Meshtastic-Android
+# Meshtastic-Android-to-IOS
 
 ![Android CI](https://github.com/meshtastic/Meshtastic-Android/workflows/Android%20CI/badge.svg?branch=master)
 
